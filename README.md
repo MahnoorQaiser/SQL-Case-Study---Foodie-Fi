@@ -6,7 +6,7 @@ Join us in exploring how people use Foodie-Fi, a cooking show streaming service,
 **Overview:**
 Dive into the world of culinary subscription analytics with the Foodie-Fi Case Study. Foodie-Fi, a streaming service for food lovers worldwide, offers a unique opportunity to analyze real-world data. Discover insights into customer behavior, subscription trends, and business performance in this fascinating study.
 
-Objective:
+**Objective:**
 The main goal of the Foodie-Fi Case Study is to use SQL analytics to tackle important business questions and make informed decisions. By examining subscription data from Foodie-Fi's database, participants will understand customer dynamics, plan usage, and churn patterns in the culinary streaming industry.
 
 **Dataset:**
